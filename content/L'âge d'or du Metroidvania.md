@@ -20,6 +20,7 @@ toc = true
 Jeux mentionnés:
 
 * Advance Wars
+* Ace Attorney
 * Animal Well
 * Axiom Verge
 * Blasphemous
