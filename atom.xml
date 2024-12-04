@@ -30,9 +30,9 @@ tags = [&quot;Game Next Door&quot;]&lt;&#x2F;p&gt;
 &lt;p&gt;Tableau&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
 &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Phoenix&lt;&#x2F;th&gt;&lt;th&gt;Mia&lt;&#x2F;th&gt;&lt;th&gt;Apollo&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
-&lt;tr&gt;&lt;td&gt;23&lt;&#x2F;td&gt;&lt;td&gt;28&lt;&#x2F;td&gt;&lt;td&gt;21&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;Maya&lt;&#x2F;td&gt;&lt;td&gt;Phoenix&lt;&#x2F;td&gt;&lt;td&gt;Trucy&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;4&lt;&#x2F;td&gt;&lt;td&gt;7&lt;&#x2F;td&gt;&lt;td&gt;3&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;23,23&lt;&#x2F;td&gt;&lt;td&gt;28,28&lt;&#x2F;td&gt;&lt;td&gt;21,21&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Maya, Maya&lt;&#x2F;td&gt;&lt;td&gt;Phoenix, Phoenix&lt;&#x2F;td&gt;&lt;td&gt;Trucy, Trucy&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;4, 4&lt;&#x2F;td&gt;&lt;td&gt;7, 7&lt;&#x2F;td&gt;&lt;td&gt;3, 3&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
 </content>
         
