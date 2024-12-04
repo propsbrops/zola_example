@@ -25,7 +25,7 @@
         
         <content type="html" xml:base="https://propsbrops.github.io/zola_example/exercice-1/">&lt;p&gt;[taxonomies]
 tags = [&quot;Game Next Door&quot;]&lt;&#x2F;p&gt;
-&lt;p&gt;![Image Bio](https:&#x2F;&#x2F;biodiversitypmc.sibils.org&#x2F;img&#x2F;logo_banner.7ff68d4d.png&quot;Logo de Biodiversitypmc&quot;)&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;biodiversitypmc.sibils.org&#x2F;img&#x2F;logo_banner.7ff68d4d.png&quot; alt=&quot;Image Bio&quot; title=&quot;Logo de Biodiversitypmc&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 </content>
         
     </entry>
