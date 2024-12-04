@@ -8,7 +8,7 @@ draft = false
 [taxonomies]
 tags = ["Game Next Door"]
 
-![Image Bio](https://biodiversitypmc.sibils.org/img/logo_banner.7ff68d4d.png
+[^1]:![Image Bio](https://biodiversitypmc.sibils.org/img/logo_banner.7ff68d4d.png
 "Logo de Biodiversitypmc")
 
 >Tableau
@@ -20,3 +20,6 @@ tags = ["Game Next Door"]
 | Maya | Phoenix | Trucy |
 | 4 | 7 | 3 |
 ***
+
+
+[^1]:  (https://biodiversitypmc.sibils.org/img/logo_banner.7ff68d4d.png Logo de Biodiversitypmc)
