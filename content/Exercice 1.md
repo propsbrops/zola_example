@@ -15,6 +15,6 @@ tags = ["Game Next Door"]
 
 | Phoenix | Mia | Apollo |
 |---------|-----|--------|
-| 23 | 28 | 21 |
-| Maya | Phoenix | Trucy |
-| 4 | 7 | 3 |
+| 23,23 | 28,28 | 21,21 |
+| Maya, Maya | Phoenix, Phoenix | Trucy, Trucy |
+| 4, 4 | 7, 7 | 3, 3 |
